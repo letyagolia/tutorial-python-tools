@@ -1,5 +1,5 @@
 from prime import isPrime
-import time
+import time   
 
 def test_small_0():
     assert isPrime(0) == False
