@@ -13,3 +13,4 @@ def test_small_21():
     time.sleep(2)
     assert isPrime(21) == False
 
+pytest --verbose
